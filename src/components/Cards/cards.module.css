@@ -1,0 +1,9 @@
+@media all and (min-width:390px) {
+    .cardsContainer{
+       display: flex;
+       flex-direction: column;
+    }
+    .Card{
+        margin-top: 3%;
+    }
+}
